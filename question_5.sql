@@ -1,0 +1,9 @@
+-- List the department number and average salary of each department.
+
+USE COMPANY1;
+
+SELECT DEPT.DEPTNO, AVG(SAL) AS AVG_SAL
+FROM DEPT
+INNER JOIN EMP
+ON DEPT.DEPTNO = EMP.DEPTNO
+GROUP BY DEPT.DEPTNO;

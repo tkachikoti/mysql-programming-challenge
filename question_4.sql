@@ -1,4 +1,4 @@
--- List all departments that do not have any employees
+-- List all departments that do not have any employees.
 
 USE COMPANY1;
 

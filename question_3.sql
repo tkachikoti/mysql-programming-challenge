@@ -1,4 +1,4 @@
--- Find the name and salary of employees in Dallas
+-- Find the name and salary of employees in Dallas.
 
 USE COMPANY1;
 

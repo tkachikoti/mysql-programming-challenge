@@ -1,5 +1,5 @@
 -- Count the number of people in department 30 who receive a
--- salary and the number of people who receive a commission
+-- salary and the number of people who receive a commission.
 
 USE COMPANY1;
 
